@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Discord API local cache
+detectable_apps.json
+
+# Executables & temporary binaries
+*.exe
+dummy_base.exe
+
+# Temporary source & compilation files
+temp_dummy_source.cs
+*.cs
+
+# PyInstaller / Build artifacts
+build/
+dist/
+*.spec
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
